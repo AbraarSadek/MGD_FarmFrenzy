@@ -1,3 +1,5 @@
 # MGD_FarmFrenzy
 
-Developed with Unreal Engine 5
+Final studio project for COMP 280-001 - Multiplayer Game Development by Abraar Sadek
+
+Developed with Unreal Engine 5.5.4
